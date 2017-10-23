@@ -20,7 +20,7 @@ import android.view.View;
 public class MaterialCircleView extends View {
 
     private boolean bGradient;
-
+    private b
     private int circleColor;
     private int circleWidth;
     private int radius;
